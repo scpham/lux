@@ -1,7 +1,12 @@
+# Preparing Version 3.0.0
+===============
++Segwit activation
+
 # Version 2.2.5
 ===============
 +Changed vNode.emty to vNode < 3 in miner.cpp
 +Started Upgraded multisig-wallet
++Upgrade net.h Prepared for multisig-wallet
 
 # Version 2.2.4
 ===============
